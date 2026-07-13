@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on End-to-end Power BI dashboards, ETL pipelines, and Microsoft Fabric solutions for enterprise stakeholders at TCS 
-<br>👥 I'm looking to collaborate on<br>Data analytics projects involving Power BI, SQL, or Python — especially dashboards that drive real business decisions<br>🤝 I'm looking for help with<br>Generative AI applications in data analytics — NL-to-SQL, conversational BI, and LLM-powered reporting workflows<br>🌱 I'm currently learning<br>Microsoft Fabric Analytics Engineering, GenAI for data analytics, and advanced DAX optimization techniques<br>💬 Ask me about<br>Power BI dashboard design, DAX & Power Query (M), SQL performance tuning, Snowflake migrations, and turning messy data into executive-ready stories<br>⚡ Fun fact<br>I've built dashboards that identified 1,000+ unused Microsoft licenses — saving 38% in renewal costs — all from a single adoption dataset!<br><br>
+🔭 I'm currently working on End-to-end Power BI dashboards, ETL pipelines, and Microsoft Fabric solutions for enterprise stakeholders at TCS <br>
+👥 I'm looking to collaborate on Data analytics projects involving Power BI, SQL, or Python — especially dashboards that drive real business decisions<br>
+🌱 I'm currently learning Microsoft Fabric Analytics Engineering, GenAI for data analytics, and advanced DAX optimization techniques<br>
+💬 Ask me about Power BI dashboard design, DAX & Power Query (M), SQL performance tuning, Snowflake migrations, and turning messy data into executive-ready stories<br>
+⚡ Fun fact : I've built dashboards that identified 1,000+ unused Microsoft licenses — saving 38% in renewal costs — all from a single adoption dataset!<br><br>
 
 
 ## 🌐 Socials:
